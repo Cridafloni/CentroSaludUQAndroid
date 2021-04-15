@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1009440951401",
+    "firebase_url": "https://centrosaluduq-16fd1.firebaseio.com",
+    "project_id": "centrosaluduq-16fd1",
+    "storage_bucket": "centrosaluduq-16fd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009440951401:android:d3a9b410469d8fe4f0a6f8",
+        "android_client_info": {
+          "package_name": "com.uq.centro_salud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009440951401-nm1tj2e1vdfjjkldjkv4ilobbheieont.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uq.centro_salud",
+            "certificate_hash": "b077bfad9e1c0b76584348495ad2201b0e0694f5"
+          }
+        },
+        {
+          "client_id": "1009440951401-3ti5o8dnk8ig5tp18r59k7biusbljdbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwMK5JgvHRsMjJkwYzTFlK3RKr26W38Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009440951401-3ti5o8dnk8ig5tp18r59k7biusbljdbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
